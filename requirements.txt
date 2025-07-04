@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langgraph
+pydantic
+python-dotenv
+yaml
+
+# You must provide your own OpenRouter API key for LLM access
